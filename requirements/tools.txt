@@ -44,7 +44,7 @@ idna==2.10                # via requests
 imagesize==1.2.0          # via sphinx
 iniconfig==1.1.1          # via pytest
 ipython-genutils==0.2.0   # via traitlets
-ipython==7.18.1           # via -r requirements/tools.in
+ipython==7.19.0           # via -r requirements/tools.in
 isort==5.6.4              # via -r requirements/tools.in
 jedi==0.17.2              # via ipython
 jeepney==0.4.3            # via keyring, secretstorage
